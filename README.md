@@ -61,5 +61,5 @@
  */
 - (void)banner:(LBBanner *)banner didChangeViewWithIndex:(NSInteger)index;
 ```
-##### LBBanner我会持续更新...。有问题或者更好的建议、可以加QQ群: 572296164
+## LBBanner我会持续更新...。有问题或者更好的建议、可以加QQ群: 572296164
 
