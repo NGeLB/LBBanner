@@ -64,5 +64,4 @@
 #### 效果图
 ![](http://i1.piimg.com/567571/bc34512adce65fa6.gif)    
 ![](http://i1.piimg.com/567571/5911f3d547f7f35b.gif)
-### LBBanner我会持续更新...。有问题或者更好的建议、可以加QQ群: 572296164
 
